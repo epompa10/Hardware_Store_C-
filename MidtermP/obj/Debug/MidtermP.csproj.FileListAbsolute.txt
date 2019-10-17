@@ -1,0 +1,5 @@
+/Users/erickpompa/Projects/MidtermP/MidtermP/bin/Debug/MidtermP.exe
+/Users/erickpompa/Projects/MidtermP/MidtermP/bin/Debug/MidtermP.pdb
+/Users/erickpompa/Projects/MidtermP/MidtermP/obj/Debug/MidtermP.csprojAssemblyReference.cache
+/Users/erickpompa/Projects/MidtermP/MidtermP/obj/Debug/MidtermP.exe
+/Users/erickpompa/Projects/MidtermP/MidtermP/obj/Debug/MidtermP.pdb
